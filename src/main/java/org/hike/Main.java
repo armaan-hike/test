@@ -13,6 +13,10 @@ public class Main {
 
         System.out.println(single2.hashCode());
 
+        Singleton single3 = Singleton.getSingleton();
+
+        System.out.println(single3.hashCode());
+
 
     }
 }

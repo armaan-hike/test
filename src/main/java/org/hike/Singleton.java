@@ -13,6 +13,8 @@ public class Singleton {
 
     private static Singleton singleton;
 
+    xyzxyzyxyz
+
     //Constructor
     private Singleton(){}
 
